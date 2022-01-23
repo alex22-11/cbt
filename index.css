@@ -36,3 +36,7 @@ button {
     background: darkgreen;
 }
 
+#error {
+    color: red;
+    font-weight: 200;
+}
